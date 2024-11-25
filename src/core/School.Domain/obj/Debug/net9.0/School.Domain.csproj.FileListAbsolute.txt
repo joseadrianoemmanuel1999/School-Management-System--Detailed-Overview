@@ -1,0 +1,11 @@
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\bin\Debug\net9.0\School.Domain.deps.json
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\bin\Debug\net9.0\School.Domain.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\bin\Debug\net9.0\School.Domain.pdb
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.AssemblyInfo.cs
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\refint\School.Domain.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.pdb
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\ref\School.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\bin\Debug\net9.0\School.Application.deps.json
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\bin\Debug\net9.0\School.Application.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\bin\Debug\net9.0\School.Application.pdb
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\bin\Debug\net9.0\School.Domain.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\bin\Debug\net9.0\School.Domain.pdb
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.csproj.AssemblyReference.cache
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.AssemblyInfoInputs.cache
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.AssemblyInfo.cs
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.csproj.CoreCompileInputs.cache
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.A.0288516A.Up2Date
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\refint\School.Application.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.pdb
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\ref\School.Application.dll
