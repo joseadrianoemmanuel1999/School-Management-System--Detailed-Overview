@@ -45,19 +45,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\": {}
+    "C:\\Users\\José Emmanuel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
       "projectName": "School.Shared",
-      "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
-      "packagesPath": "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\obj\\",
+      "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
+      "packagesPath": "C:\\Users\\José Emmanuel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\JE ELITEVOIP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\José Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -69,8 +70,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj": {
-              "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj"
+            "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj": {
+              "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj"
             }
           }
         }

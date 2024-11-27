@@ -4,6 +4,7 @@ namespace School.Domain.Model;
 
 public class FeePayments
 {
+    
     public Guid Id { get; set; }
     public Students Student { get; set; }
     public FeeStrutures FeeStruture { get; set; }
