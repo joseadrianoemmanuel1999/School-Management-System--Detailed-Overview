@@ -16,4 +16,8 @@
     <ProjectReference Include="..\..\core\School.Application\School.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
