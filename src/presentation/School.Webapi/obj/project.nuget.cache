@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zortNu5nr10=",
+  "dgSpecHash": "Jh7+1l86JwQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\presentation\\School.Webapi\\School.Webapi.csproj",
+  "projectFilePath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\presentation\\School.Webapi\\School.Webapi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\José Emmanuel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "C:\\Users\\José Emmanuel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Model\UserProfile.cs" />
+    <Compile Remove="Enums\Gende.cs" />
+    <Compile Remove="Enums\StudentAttendeceEnum.cs" />
+  </ItemGroup>
+
 </Project>
