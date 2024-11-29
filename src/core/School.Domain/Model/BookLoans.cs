@@ -1,8 +1,11 @@
-﻿namespace School.Domain.Model;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace School.Domain.Model;
 
 public class BookLoans
 {
-    public Guid id { get; set; }
+    [Key]
+    public Guid Id { get; set; }
     public Students Students { get; set; }
     public Books Books { get; set; }
     public DateTime IssueDate { get; set; }

@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<SchoolDBContext>(options =>
-    options.UseSqlServer("Server=localhost;Database=SchoolManagement;Trusted_Connection=True;"));
+    options.UseSqlServer("Server=localhost;Database=SchoolManagement;Trusted_Connection=True;Encrypt=False;"));
 
 var app = builder.Build();
 

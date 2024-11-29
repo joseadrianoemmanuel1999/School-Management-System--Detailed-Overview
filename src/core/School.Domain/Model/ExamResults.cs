@@ -1,7 +1,10 @@
-﻿namespace School.Domain.Model;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace School.Domain.Model;
 
 public class ExamResults
 {
+    [Key]
     public Guid Id { get; set; }
     public Exams Exam { get; set; }
     public Students Student { get; set; }

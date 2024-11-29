@@ -1,10 +1,11 @@
-﻿using School.Domain.Enums;
+﻿using System.ComponentModel.DataAnnotations;
+using School.Domain.Enums;
 
 namespace School.Domain.Model;
 
 public class FeePayments
 {
-    
+    [Key]
     public Guid Id { get; set; }
     public Students Student { get; set; }
     public FeeStrutures FeeStruture { get; set; }

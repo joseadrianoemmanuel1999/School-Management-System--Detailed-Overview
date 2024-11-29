@@ -9,3 +9,4 @@ C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Over
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\refint\School.Domain.dll
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.pdb
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\ref\School.Domain.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Domain\obj\Debug\net9.0\School.Domain.sourcelink.json

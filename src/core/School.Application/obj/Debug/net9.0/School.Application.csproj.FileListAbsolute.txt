@@ -13,3 +13,4 @@ C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Over
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\refint\School.Application.dll
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.pdb
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\ref\School.Application.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\core\School.Application\obj\Debug\net9.0\School.Application.sourcelink.json

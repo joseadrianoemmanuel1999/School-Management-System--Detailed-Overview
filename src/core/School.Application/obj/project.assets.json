@@ -38,7 +38,6 @@
       "packagesPath": "C:\\Users\\José Emmanuel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\José Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
@@ -67,7 +66,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {

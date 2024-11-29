@@ -1,7 +1,10 @@
-﻿namespace School.Domain.Model;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace School.Domain.Model;
 
 public class Students
 {
+    [Key]
     public Guid Id { get; set; }
     public Users? User { get; set; }
     public string? AdmissionNumber { get; set; }

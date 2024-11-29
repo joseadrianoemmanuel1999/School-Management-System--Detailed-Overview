@@ -15,3 +15,4 @@ C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Over
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\infrastruture\School.Shared\obj\Debug\net9.0\refint\School.Shared.dll
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\infrastruture\School.Shared\obj\Debug\net9.0\School.Shared.pdb
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\infrastruture\School.Shared\obj\Debug\net9.0\ref\School.Shared.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\infrastruture\School.Shared\obj\Debug\net9.0\School.Shared.sourcelink.json
