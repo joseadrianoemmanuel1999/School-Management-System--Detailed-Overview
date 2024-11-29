@@ -10,5 +10,6 @@ public class Books
     public string Author { get; set; }
     public string ISBN { get; set; }
     public int CopiesAvailable { get; set; }
+    public List<BookLoans>BookLoans { get; set; }
     
 }

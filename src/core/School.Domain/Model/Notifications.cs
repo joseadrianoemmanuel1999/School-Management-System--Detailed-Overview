@@ -7,8 +7,10 @@ public class Notifications
 {
     [Key]
     public Guid Id { get; set; }
-    public virtual Users SenderId { get; set; }
-    public virtual Users ReceiverId { get; set; }
+    public Guid SenderId { get; set; }
+    public  Users SenderIdUsers { get; set; }
+    public Guid ReceiverId { get; set; }
+    public  Users ReceiverIdUsers { get; set; }
     public String Message { get; set; }
     public DateTime SentAt { get; set; }
 }

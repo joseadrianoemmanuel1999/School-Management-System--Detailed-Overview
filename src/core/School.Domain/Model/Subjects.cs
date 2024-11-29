@@ -7,5 +7,6 @@ public class Subjects
     [Key]
     public Guid Id { get; set; }
     public string Name { get; set; }
+    public Guid ClassesId { get; set; }
     public Classes Classes { get; set; }
 }

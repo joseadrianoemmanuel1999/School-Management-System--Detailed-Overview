@@ -6,6 +6,7 @@ public class UserProfiles
 {
     [Key]
     public Guid Id { get; set; }
+    
     public Users? User { get; set; }
     [Required]
     public DateTime DateOfBirth { get; set; }

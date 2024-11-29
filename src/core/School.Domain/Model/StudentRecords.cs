@@ -6,6 +6,7 @@ public class StudentRecords
 {
     [Key]
     public int Id { get; set; }
+    public Guid StudentId { get; set; }  
     public Students Student { get; set; }
     public DateTime AcademicYear { get; set; }
     public string Grade { get; set; }

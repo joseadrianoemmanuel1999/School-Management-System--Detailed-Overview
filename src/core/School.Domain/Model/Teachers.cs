@@ -9,5 +9,6 @@ public class Teachers
     public Users User { get; set; }
     public DateTime HireDate { get; set; }
     public string SubjectSpecialization { get; set; }
+    public ICollection<TeacherAttendance>TeacherAttendance { get; set; }
     public ICollection<Classes> ClassesCollection { get; set; } = new List<Classes>();
 }

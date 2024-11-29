@@ -10,6 +10,7 @@
     <Compile Remove="Model\UserProfile.cs" />
     <Compile Remove="Enums\Gende.cs" />
     <Compile Remove="Enums\StudentAttendeceEnum.cs" />
+    <Compile Remove="Model\BooKsProcess.cs" />
   </ItemGroup>
 
 </Project>

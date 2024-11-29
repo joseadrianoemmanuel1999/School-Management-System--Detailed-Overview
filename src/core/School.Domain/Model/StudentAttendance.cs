@@ -6,6 +6,7 @@ public class StudentAttendance
 {
     [Key]
     public Guid Id { get; set; }
+    public Guid StudentId { get; set; }
     public Students Student { get; set; }
     public DateTime Date { get; set; }
     public StudentAttendance Status { get; set; }
