@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj": {}
+    "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj": {
+    "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj",
+        "projectUniqueName": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj",
         "projectName": "School.Application",
-        "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj",
-        "packagesPath": "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\obj\\",
+        "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj",
+        "packagesPath": "C:\\Users\\José Emmanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\JE ELITEVOIP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\José Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +27,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj": {
-                "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj"
+              "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj": {
+                "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj"
+              },
+              "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Identity\\School.Identity.csproj": {
+                "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Identity\\School.Identity.csproj"
               }
             }
           }
@@ -46,6 +50,28 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,17 +92,18 @@
         }
       }
     },
-    "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj": {
+    "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj",
         "projectName": "School.Domain",
-        "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj",
-        "packagesPath": "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\obj\\",
+        "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\School.Domain.csproj",
+        "packagesPath": "C:\\Users\\José Emmanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\JE ELITEVOIP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\José Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -124,17 +151,87 @@
         }
       }
     },
-    "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj": {
+    "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Identity\\School.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
-        "projectName": "School.Shared",
-        "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
-        "packagesPath": "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\obj\\",
+        "projectUniqueName": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Identity\\School.Identity.csproj",
+        "projectName": "School.Identity",
+        "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Identity\\School.Identity.csproj",
+        "packagesPath": "C:\\Users\\José Emmanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Identity\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\JE ELITEVOIP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\José Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
+        "projectName": "School.Shared",
+        "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\School.Shared.csproj",
+        "packagesPath": "C:\\Users\\José Emmanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\infrastruture\\School.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\José Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -146,8 +243,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj": {
-                "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj"
+              "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj": {
+                "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\School-Management-System--Detailed-Overview\\src\\core\\School.Application\\School.Application.csproj"
               }
             }
           }

@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School.Webapi", "src\presentation\School.Webapi\School.Webapi.csproj", "{79807363-8438-4371-B425-65121D5D9EBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School.Identity", "src\infrastruture\School.Identity\School.Identity.csproj", "{EDFB2056-67B3-4826-8882-BF4474B37693}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{79807363-8438-4371-B425-65121D5D9EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79807363-8438-4371-B425-65121D5D9EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79807363-8438-4371-B425-65121D5D9EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFB2056-67B3-4826-8882-BF4474B37693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFB2056-67B3-4826-8882-BF4474B37693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFB2056-67B3-4826-8882-BF4474B37693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFB2056-67B3-4826-8882-BF4474B37693}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1C4A5273-8BE7-461E-877D-E57683003C1C} = {E688BE2C-7082-4540-BCC1-2B0347FC02ED}
@@ -60,5 +66,6 @@ Global
 		{9A6B81F6-5F11-4628-AB73-853DA8F34957} = {6BC773C8-2E70-4BB1-9E8D-14D4E041637D}
 		{53348EDC-5B3F-45A8-A4D9-3CD2A24F467A} = {E688BE2C-7082-4540-BCC1-2B0347FC02ED}
 		{79807363-8438-4371-B425-65121D5D9EBD} = {53348EDC-5B3F-45A8-A4D9-3CD2A24F467A}
+		{EDFB2056-67B3-4826-8882-BF4474B37693} = {6BC773C8-2E70-4BB1-9E8D-14D4E041637D}
 	EndGlobalSection
 EndGlobal

@@ -161,3 +161,7 @@ C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Over
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\presentation\School.Webapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\presentation\School.Webapi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\presentation\School.Webapi\obj\Debug\net9.0\School.Webapi.sourcelink.json
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\presentation\School.Webapi\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\presentation\School.Webapi\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\presentation\School.Webapi\bin\Debug\net9.0\MediatR.dll
+C:\Users\José Emmanuel\Documents\GitHub\School-Management-System--Detailed-Overview\src\presentation\School.Webapi\bin\Debug\net9.0\MediatR.Contracts.dll

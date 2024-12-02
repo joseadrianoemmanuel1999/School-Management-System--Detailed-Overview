@@ -24,9 +24,9 @@ public class Users
     public bool IsActive { get; set; }
     public DateTime CreatedAt { get; set; }
     public DateTime UpdatedAt { get; set; }
-   [InverseProperty("SenderId")]
+
     public ICollection<Notifications> SenderId { get; set; }
-    [InverseProperty("ReceiverId")]
+  
     public ICollection<Notifications>ReceiverId { get; set; }
-    public UserProfiles UserProfiles { get; set; }
+    public UserProfiles? UserProfiles { get; set; }
 }

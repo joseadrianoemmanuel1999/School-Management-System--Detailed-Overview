@@ -1,14 +1,18 @@
-
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
 using School.Data;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+builder.Services.AddAuthorization();
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<SchoolDBContext>(options =>
-    options.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=SchoolManagement;Trusted_Connection=True;Encrypt=False;"));
+    options.UseSqlServer("Server=localhost;Database=SchoolManagement;Trusted_Connection=True;Encrypt=False;"));
 
 var app = builder.Build();
 
