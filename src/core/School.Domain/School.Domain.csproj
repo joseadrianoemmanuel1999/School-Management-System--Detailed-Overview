@@ -13,4 +13,8 @@
     <Compile Remove="Model\BooKsProcess.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Specification\" />
+  </ItemGroup>
+
 </Project>

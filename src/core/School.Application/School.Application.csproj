@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Common\" />
     <Folder Include="Dtos\" />
     <Folder Include="SchoolLists\" />
     <Folder Include="SchoolPackages\Commands\AttendanceCommands\" />
